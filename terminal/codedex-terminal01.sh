@@ -1,7 +1,7 @@
-$ echo Hi! My name is ...
+$echo Hi! My name is ...
 #writes the Hi! ...
 
-$ say Hi! My name is ...
+$say Hi! My name is ...
 #uses speakers to read the text out loud 
 
 $pwd
@@ -25,6 +25,6 @@ $cat file-name.extension
 $echo hello
 #prints out hello in the terminal 
 
-#clear
+$clear
 #clears out the temrinal 
 
